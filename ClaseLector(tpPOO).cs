@@ -34,7 +34,7 @@ namespace Colecciones
 
         public override string ToString()
         {
-            return $"Lector:{lector} | DNI:{dni} | Libros Prestados{librosEnPrestamo.Count}";
+            return $"Lector:{nombre} | DNI:{dni} | Libros Prestados{librosEnPrestamo.Count}";
         }
     }
 }
