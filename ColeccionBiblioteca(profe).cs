@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Colecctions.generic;
+using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 
 namespace Colecciones
